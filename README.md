@@ -1,10 +1,11 @@
-# P4-Implementation-of-Chatbox-using-NLP-
-## "BijaSakhi" a farmer friendly chatbot for seed recognition.
-## Overview of the Farmer Seed Recognition Chatbot Code
+# P4-Implementation-of-Chatbox-using-NLP
+
+### "BijaSakhi" a farmer friendly chatbot for seed recognition.
+#### Overview of the Farmer Seed Recognition Chatbot Code
 
 The provided code implements a Farmer Seed Recognition Chatbot that helps farmers recognize seed types based on text descriptions and interact with them in a conversational manner. The chatbot combines Natural Language Processing (NLP) for handling user queries and a machine learning model for seed recognition.
 
-## Key Features:
+### Key Features:
 
 BijaSakhi Seed Recognition Model:
 
@@ -44,7 +45,7 @@ The chatbot uses regular expressions to match the user's input and responds acco
 Main Loop:
 
 The chatbot runs in a continuous loop, awaiting user input and responding appropriately. It can classify seeds based on descriptions or handle conversational queries.
-## Example Interaction:
+#### Example Interaction:
 
 1. Seed Recognition:
 
@@ -80,7 +81,7 @@ Bot: Goodbye! Happy farming!
 - **Personalized Guidance**: Offers tailored advice on seed choices for specific farming needs.
 - **Support for Sustainable Agriculture**: Promotes environmentally friendly seed selection practices.
 - **Engagement with Technology**: Introduces farmers to AI tools, encouraging technological adoption in farming.
-# Summary:
+### Summary:
 
 This chatbot is an interactive tool for farmers that combines NLP and machine learning to help them identify seeds based on their descriptions and answer other related questions. The chatbot can be extended by adding more seed data, improving the conversation patterns, and incorporating advanced NLP techniques for better accuracy and user experience.
 
