@@ -70,6 +70,16 @@ plaintext
 Copy code
 You: exit  
 Bot: Goodbye! Happy farming!
+### Uses of the BejaSakhi Farmer Seed Recognition Chatbot
+
+- **Seed Identification**: Helps users identify seeds based on descriptions of their characteristics.
+- **Educational Tool**: Provides detailed information about seeds, including their features and growing conditions.
+- **Quick Access to Information**: Allows farmers to get instant responses about various seeds without manual searches.
+- **Seed Classification for Experts**: Assists agricultural professionals in classifying new or unknown seeds.
+- **Improved Productivity**: Saves time for farmers by automating seed identification, allowing focus on important tasks.
+- **Personalized Guidance**: Offers tailored advice on seed choices for specific farming needs.
+- **Support for Sustainable Agriculture**: Promotes environmentally friendly seed selection practices.
+- **Engagement with Technology**: Introduces farmers to AI tools, encouraging technological adoption in farming.
 # Summary:
 
 This chatbot is an interactive tool for farmers that combines NLP and machine learning to help them identify seeds based on their descriptions and answer other related questions. The chatbot can be extended by adding more seed data, improving the conversation patterns, and incorporating advanced NLP techniques for better accuracy and user experience.
