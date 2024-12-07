@@ -4,7 +4,7 @@
 
 The provided code implements a Farmer Seed Recognition Chatbot that helps farmers recognize seed types based on text descriptions and interact with them in a conversational manner. The chatbot combines Natural Language Processing (NLP) for handling user queries and a machine learning model for seed recognition.
 
-# Key Features:
+## Key Features:
 
 BijaSakhi Seed Recognition Model:
 
@@ -44,7 +44,7 @@ The chatbot uses regular expressions to match the user's input and responds acco
 Main Loop:
 
 The chatbot runs in a continuous loop, awaiting user input and responding appropriately. It can classify seeds based on descriptions or handle conversational queries.
-# Example Interaction:
+## Example Interaction:
 
 1. Seed Recognition:
 
